@@ -62,7 +62,7 @@ contributes.keybindings
 **设置菜单**
 > 菜单应该是有很多种
 ```
-contributes.menus
+contributes
 ```
 
 **推荐TS开发**
